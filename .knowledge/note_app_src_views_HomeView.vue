@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 3, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "00817dd749b55896de1abfa8cbdbf7e5", "format-version": 4, "code-base-name": "default", "filename": "note_app/src/views/HomeView.vue", "knowledge_revision": 2}
